@@ -1,0 +1,8 @@
+A=input("enter your name: ")
+B=int(input("enter your age: "))
+C=input("enter your college: ")
+D=input("enter your section: ")
+print(A)
+print(B)
+print(C)
+print(D)

@@ -1,0 +1,5 @@
+A=(12,3.4,"abhi",45,"avi")
+B=(78,9.0,"train",23,"rail")
+print(A+B)
+print(A)
+print(B)
